@@ -6,6 +6,7 @@ Code for UA-NOAO Astrostatistics working group. Relevant links:
   * Google Site:  https://sites.google.com/site/uaastrostats/home
   * Google Group:  https://groups.google.com/forum/?hl=en#!forum/ua-noao-astrostats
   * GitHub Page:  https://github.com/StewardObservatory/UaNoaoAstroStats
+  * View IPython Notebooks: http://nbviewer.ipython.org/github/StewardObservatory/UaNoaoAstroStats/tree/master/
 
 
 Getting started with git
