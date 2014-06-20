@@ -1,6 +1,11 @@
 UaNoaoAstroStats
 ================
-Code for UA-NOAO Astrostatistics working group.
+Code for UA-NOAO Astrostatistics working group. Relevant links:
+
+  * AstroML Home:  http://www.astroml.org/
+  * Google Site:  https://sites.google.com/site/uaastrostats/home
+  * Google Group:  https://groups.google.com/forum/?hl=en#!forum/ua-noao-astrostats
+  * GitHub Page:  https://github.com/StewardObservatory/UaNoaoAstroStats
 
 
 Getting started with git
