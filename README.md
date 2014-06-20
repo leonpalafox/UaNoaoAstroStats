@@ -4,7 +4,7 @@ Code for UA-NOAO Astrostatistics working group.
 
 
 Getting started with git
-========================
+------------------------
 To get started, first download `git`. If you're using Linux, it should be available in distribution's package manager. If you're using Mac, you can download it from the `git` webpage: http://git-scm.com/download/mac. You can also download it through `homebrew`, although you may need the "developer tools" to compile things available through the Mac Store.
 
 The documentation on `git`'s home page can be somewhat dense, but GitHub has a quite succinct "getting started" guide, that you should have seen when creating an account. But for an executive summary, the simplest way to make contributions is to:
@@ -23,5 +23,16 @@ The documentation on `git`'s home page can be somewhat dense, but GitHub has a q
   * Congratulations, you have contributed code to a public GitHub repo!
   
 
-We can cover more effecient workflows in our meetings, such as making changes to branches rather than directly editing `master`. But note you can make direct changes to this text as well! You can even use the "Edit" button to make changes within your browser.
+We can cover more effecient workflows in our meetings, such as making changes to branches rather than directly editing `master`. If you find something written you consider an "anti-pattern" note you can make direct changes to this text to fix it! You can even use the "Edit" button on GitHub (after selecting the `README.md` file) to make changes within your browser.
+
+
+Keeping your fork up to date
+----------------------------
+You'll need to incorporate other people's changes to the main "upstream" repository to sync to your local fork in order to keep it up to date.
+
+
+  * Add the remote repository `$ git remote add upstream master https://github.com/StewardObservatory/UaNoaoAstroStats.git`, this is only necessary to do once
+  * Sync your local repository on your computer by *pulling* changes from the *upstream* or "main" repository `$ git pull upstream master`
+  * Sync your local repository to your forked GitHub repo `$ git push origin master`
+
 
