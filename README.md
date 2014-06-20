@@ -12,7 +12,7 @@ The documentation on `git`'s home page can be somewhat dense, but GitHub has a q
 
   * Make a GitHub account
   * Navigate to this page and click the "Fork" button in the repository's upper right hand corner (you may also want to "Watch" and "Star" the repository as well for future reference).
-  * Use `$ git clone https://github.com/YOUR_USERNAME/UaNoaoAstrStats` to make a local copy of your fork on your machine
+  * Use `$ git clone https://github.com/YOUR_USERNAME/UaNoaoAstroStats` to make a local copy of your fork on your machine
   * Make your edits
   * *Commit* your changes `$ git commit -a -m 'My short explanation'`
   * Repeat for more changes
